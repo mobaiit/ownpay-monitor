@@ -6,6 +6,18 @@
 
 OwnPay Monitor 是 OwnPay 的 Windows 收款监控工具。它通过 OCR 识别微信、支付宝到账记录，并将结果安全提交给 OwnPay，帮助个人收款业务自动确认订单和通知发货。
 
+## 界面预览
+
+### 网站管理与支付体验
+
+![OwnPay 订单管理界面](assets/screenshots/admin-orders.png)
+
+![OwnPay 在线支付成功页面](assets/screenshots/demo-payment-success.png)
+
+### PC 监控工具
+
+![OwnPay Monitor 运行界面](assets/screenshots/pc-monitor-running.png)
+
 ## 下载
 
 请前往 [Releases](https://github.com/mobaiit/ownpay-monitor/releases/latest) 下载最新版本：
