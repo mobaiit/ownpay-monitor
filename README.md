@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ownpay-logo.png" width="128" alt="OwnPay Logo" />
+  <img src="assets/ownpay-readme-logo.png" width="180" alt="OwnPay Logo" />
 </p>
 
 # OwnPay Monitor
