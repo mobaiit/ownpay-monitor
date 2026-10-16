@@ -46,7 +46,7 @@ OwnPay Monitor 是 OwnPay 的 Windows 收款监控工具。它通过 OCR 识别�
 - QQ 交流群：`228432999`
 
 <p align="center">
-  <img src="assets/ownpay-qq.jpg" width="260" alt="OwnPay QQ 交流群二维码，群号 228432999" />
+  <img src="assets/ownpay-qq.png" width="260" alt="OwnPay QQ 交流群二维码，群号 228432999" />
 </p>
 
 ## 使用提示
